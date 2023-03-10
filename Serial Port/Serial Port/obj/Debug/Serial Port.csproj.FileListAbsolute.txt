@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial Port.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial_Port.Form1.resources
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial_Port.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial Port.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\bin\Debug\Z18B串口助手.exe.config
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\bin\Debug\Z18B串口助手.exe
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\bin\Debug\Z18B串口助手.pdb
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Debug\Z18B串口助手.exe
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Debug\Z18B串口助手.pdb
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\bin\Debug\Z18B串口助手.exe.config
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\obj\Debug\Z18B串口助手.exe
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\obj\Debug\Z18B串口助手.pdb
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\bin\Debug\Z18B串口助手.exe
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\bin\Debug\Z18B串口助手.pdb
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial Port.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial_Port.Form1.resources
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial_Port.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Z18B_GIT\Serial Port App\Serial Port\Serial Port\obj\Debug\Serial Port.csproj.GenerateResource.Cache

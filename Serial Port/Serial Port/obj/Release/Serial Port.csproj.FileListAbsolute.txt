@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\bin\Release\Serial Port.exe.config
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\bin\Release\Serial Port.exe
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\bin\Release\Serial Port.pdb
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Release\Serial_Port.Form1.resources
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Release\Serial_Port.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Release\Serial Port.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Release\Serial Port.exe
+C:\Users\Administrator\Desktop\Serial Port App\Serial Port\Serial Port\obj\Release\Serial Port.pdb
